@@ -165,6 +165,8 @@ Kedua disini kita akan membuat menu utamanya yang akan berjalan setelah SplashSc
 
 # Tampilan Design
 
+![tampilan desain](https://github.com/nadyakhorun/Intent-App/assets/115801823/c86a2350-492c-4859-a1ef-ce01313ad4be)
+
 - Selanjutnya kita buka MainActivity.java untuk menambahkan code intent untuk masing-masing tombol.
 
         package com.example.tugassembilan;
@@ -886,6 +888,8 @@ e. Project Set Alarm = MainActivity.java (karena implicit intent jadi code untuk
 # Hasil RUN
 
 Berikut ini adalah video hasil RUN dari aplikasi yang sudah dibuat.
+
+https://github.com/nadyakhorun/Intent-App/assets/115801823/1ea6253f-21a1-49a8-a158-68873134218c
 
 # SELESAI, TERIMA KASIH
 
